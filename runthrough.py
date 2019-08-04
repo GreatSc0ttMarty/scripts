@@ -8,8 +8,8 @@ import csv
 ad_list = []
 email_list = []
 
-filename = 'C:/Users/tabbass/Desktop/New folder/otherusers.csv'
-filename_2 = 'C:/Users/tabbass/Desktop/New folder/Users.csv'
+filename = 'C:/Users/tabbass/Desktop/Forwarding/DisabledUsers.csv'
+filename_2 = 'C:/Users/tabbass/Desktop/Forwarding/LicensedEmail.csv'
 
 otherusers = csv.reader(open(filename, 'r'))
 users = csv.reader(open(filename_2, 'r'))
