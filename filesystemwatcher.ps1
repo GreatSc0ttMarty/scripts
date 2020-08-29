@@ -3,7 +3,7 @@
 # Script watches for files to be created in a folder #
 # and applies the folder's permissions to all files. #
 #													 #
-#Set $FolderPath Var. to the desired folder location #
+# Set $FolderPath Var to the desired folder location #
 ######################################################
 
 
